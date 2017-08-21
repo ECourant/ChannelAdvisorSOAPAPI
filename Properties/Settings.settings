@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ChannelAdvisorSOAP.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ChannelAdvisorSOAP_CA_InventoryService_InventoryService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://api.channeladvisor.com/ChannelAdvisorAPI/v7/InventoryService.asmx</Value>
+    </Setting>
+    <Setting Name="ChannelAdvisorSOAP_CA_AdminService_AdminService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://api.channeladvisor.com/ChannelAdvisorAPI/v7/AdminService.asmx</Value>
+    </Setting>
+    <Setting Name="ChannelAdvisorSOAP_Orders_OrderService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://api.channeladvisor.com/ChannelAdvisorAPI/v7/OrderService.asmx</Value>
+    </Setting>
+    <Setting Name="ChannelAdvisorSOAP_Fulfillment_FulfillmentService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://api.channeladvisor.com/ChannelAdvisorAPI/V7/FulfillmentService.asmx</Value>
+    </Setting>
+    <Setting Name="ChannelAdvisorSOAP_Timeout" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">1200000</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

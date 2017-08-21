@@ -1,0 +1,116 @@
+C:\Source\Dollar Hobbyz\iSpoof\iSpoof V3.1.0 - GIT\ChannelAdvisorSOAP\bin\Debug\ChannelAdvisorSOAP.dll.config
+C:\Source\Dollar Hobbyz\iSpoof\iSpoof V3.1.0 - GIT\ChannelAdvisorSOAP\bin\Debug\ChannelAdvisorSOAP.dll
+C:\Source\Dollar Hobbyz\iSpoof\iSpoof V3.1.0 - GIT\ChannelAdvisorSOAP\bin\Debug\ChannelAdvisorSOAP.XmlSerializers.dll
+C:\Source\Dollar Hobbyz\iSpoof\iSpoof V3.1.0 - GIT\ChannelAdvisorSOAP\bin\Debug\ChannelAdvisorSOAP.pdb
+C:\Source\Dollar Hobbyz\iSpoof\iSpoof V3.1.0 - GIT\ChannelAdvisorSOAP\bin\Debug\Newtonsoft.Json.dll
+C:\Source\Dollar Hobbyz\iSpoof\iSpoof V3.1.0 - GIT\ChannelAdvisorSOAP\bin\Debug\Newtonsoft.Json.xml
+C:\Source\Dollar Hobbyz\iSpoof\iSpoof V3.1.0 - GIT\ChannelAdvisorSOAP\obj\Debug\ChannelAdvisorSOAP.csprojResolveAssemblyReference.cache
+C:\Source\Dollar Hobbyz\iSpoof\iSpoof V3.1.0 - GIT\ChannelAdvisorSOAP\obj\Debug\ChannelAdvisorSOAP.dll
+C:\Source\Dollar Hobbyz\iSpoof\iSpoof V3.1.0 - GIT\ChannelAdvisorSOAP\obj\Debug\ChannelAdvisorSOAP.pdb
+C:\Source\Dollar Hobbyz\iSpoof\iSpoof V3.1.0 - GIT\ChannelAdvisorSOAP\obj\Debug\ChannelAdvisorSOAP.XmlSerializers.dll
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\bin\Debug\grpc_csharp_ext.x86.dll
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\bin\Debug\grpc_csharp_ext.x64.dll
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\bin\Debug\libgrpc_csharp_ext.x86.so
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\bin\Debug\libgrpc_csharp_ext.x86.dylib
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\bin\Debug\Log4Net.config
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\bin\Debug\ChannelAdvisorSOAP.dll.config
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\bin\Debug\ChannelAdvisorSOAP.dll
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\bin\Debug\ChannelAdvisorSOAP.XmlSerializers.dll
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\bin\Debug\ChannelAdvisorSOAP.pdb
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\bin\Debug\Google.Api.CommonProtos.dll
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\bin\Debug\Google.Api.Gax.dll
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\bin\Debug\Google.Api.Gax.Grpc.dll
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\bin\Debug\Google.Apis.Auth.dll
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\bin\Debug\Google.Apis.Clouderrorreporting.v1beta1.dll
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\bin\Debug\Google.Apis.Core.dll
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\bin\Debug\Google.Apis.dll
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\bin\Debug\Google.Apis.PlatformServices.dll
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\bin\Debug\Google.Cloud.DevTools.Common.dll
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\bin\Debug\Google.Cloud.Logging.Log4Net.dll
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\bin\Debug\Google.Cloud.Logging.Type.dll
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\bin\Debug\Google.Cloud.Logging.V2.dll
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\bin\Debug\Google.Protobuf.dll
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\bin\Debug\Grpc.Auth.dll
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\bin\Debug\Grpc.Core.dll
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\bin\Debug\log4net.dll
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\bin\Debug\Newtonsoft.Json.dll
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\bin\Debug\System.Interactive.Async.dll
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\bin\Debug\Google.Api.CommonProtos.xml
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\bin\Debug\Google.Api.Gax.xml
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\bin\Debug\Google.Api.Gax.Grpc.xml
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\bin\Debug\Google.Apis.xml
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\bin\Debug\Google.Apis.Auth.xml
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\bin\Debug\Google.Apis.Clouderrorreporting.v1beta1.xml
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\bin\Debug\Google.Apis.Core.xml
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\bin\Debug\Google.Cloud.DevTools.Common.xml
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\bin\Debug\Google.Cloud.Logging.Log4Net.xml
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\bin\Debug\Google.Cloud.Logging.Type.xml
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\bin\Debug\Google.Cloud.Logging.V2.xml
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\bin\Debug\Google.Protobuf.xml
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\bin\Debug\Grpc.Auth.xml
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\bin\Debug\Grpc.Core.xml
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\bin\Debug\log4net.xml
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\bin\Debug\Newtonsoft.Json.xml
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\bin\Debug\System.Interactive.Async.xml
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\obj\Debug\ChannelAdvisorSOAP.dll
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\obj\Debug\ChannelAdvisorSOAP.pdb
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\obj\Debug\ChannelAdvisorSOAP.XmlSerializers.dll
+C:\RemoteRepository\JustInTime\iSpoof V3.1.0\ChannelAdvisorSOAP\obj\Debug\ChannelAdvisorSOAP.csprojResolveAssemblyReference.cache
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\obj\Debug\ChannelAdvisorSOAP.dll
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\obj\Debug\ChannelAdvisorSOAP.pdb
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\obj\Debug\ChannelAdvisorSOAP.XmlSerializers.dll
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\obj\Debug\ChannelAdvisorSOAP.csprojResolveAssemblyReference.cache
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\obj\Debug\ChannelAdvisorSOAP.csproj.CoreCompileInputs.cache
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\libgrpc_csharp_ext.x86.so
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\libgrpc_csharp_ext.x86.dylib
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\Log4Net.config
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\ChannelAdvisorSOAP.dll.config
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\ChannelAdvisorSOAP.dll
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\ChannelAdvisorSOAP.XmlSerializers.dll
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\ChannelAdvisorSOAP.pdb
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\Google.Api.CommonProtos.dll
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\Google.Api.Gax.dll
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\Google.Api.Gax.Grpc.dll
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\Google.Apis.Auth.dll
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\Google.Apis.Clouderrorreporting.v1beta1.dll
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\Google.Apis.Core.dll
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\Google.Apis.dll
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\Google.Cloud.DevTools.Common.dll
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\Google.Cloud.Logging.Log4Net.dll
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\Google.Cloud.Logging.Type.dll
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\Google.Cloud.Logging.V2.dll
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\Google.Protobuf.dll
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\Grpc.Auth.dll
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\Grpc.Core.dll
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\log4net.dll
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\Google.Api.CommonProtos.xml
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\Google.Api.Gax.pdb
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\Google.Api.Gax.xml
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\Google.Api.Gax.Grpc.pdb
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\Google.Api.Gax.Grpc.xml
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\Google.Apis.xml
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\Google.Apis.Auth.xml
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\Google.Apis.Clouderrorreporting.v1beta1.xml
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\Google.Apis.Core.xml
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\Google.Cloud.DevTools.Common.pdb
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\Google.Cloud.DevTools.Common.xml
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\Google.Cloud.Logging.Log4Net.pdb
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\Google.Cloud.Logging.Log4Net.xml
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\Google.Cloud.Logging.Type.xml
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\Google.Cloud.Logging.V2.xml
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\Google.Protobuf.xml
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\Grpc.Auth.xml
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\Grpc.Core.xml
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\log4net.xml
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ecourant\Documents\ChannelAdvisorSOAP\bin\Debug\System.Interactive.Async.xml
